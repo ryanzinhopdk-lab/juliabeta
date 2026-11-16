@@ -5,6 +5,6 @@
   <title>Oi visitante!!!</title>
 </head>
 <body>
-    <?php echo "<h1>Olá, mundo!</h1>" ?>
+    <?php echo "<h1>Ola visitante!!!</h1>" ?>
 </body>
 </html>
