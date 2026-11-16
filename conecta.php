@@ -1,6 +1,6 @@
 <?php
 // Definindo os dados de conexão com o banco MySQL
-$host = "ftpupload.net";
+$host = "sql112.infinityfree.com";
 $banco = "if0_43396087_bancodedados";
 $usuario = "if0_43396087";
 $senha = "WcOFcSI8D10p";
